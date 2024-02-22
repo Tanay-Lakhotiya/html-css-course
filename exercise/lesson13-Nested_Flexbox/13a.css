@@ -1,0 +1,22 @@
+.outer-flexbox {
+  display: flex;
+  height: 50px;
+}
+
+.div1 {
+  width: 100px;
+  background-color: lightpink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div2 {
+  width: 200px;
+  background-color: lightblue;
+}
+
+.item {
+  background-color: black;
+  color: white;
+}
